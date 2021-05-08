@@ -1,0 +1,19 @@
+body{
+    background: rgb(255,252,12);
+    background: radial-gradient(circle, rgba(255,252,12,1) 50%, rgba(255,180,180,1) 100%);
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    border: 5px ridge;
+    margin: 20px;
+}
+
+button{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(174, 174, 248);
+    border: 3px ridge lightblue;
+    border-radius: 100%;
+}
